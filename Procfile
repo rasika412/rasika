@@ -1,0 +1,1 @@
+web gunicorn sinu.wsgi:application --log-file -
